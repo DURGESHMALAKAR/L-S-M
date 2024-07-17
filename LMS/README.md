@@ -1,8 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/library-management-system)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/library-management-system?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/library-management-system?style=social)
 
   <br />
 
@@ -38,7 +34,7 @@ Fontawesome Icon :
 
 #### Librarian Login Credentials
 
-E-mail: librarymanagementwebsite@gmail.com
+E-mail: durgeshmalakar@gmail.com
 Password: librarian
 
 #### Configuring XAMPP to send email from localhost in php:
@@ -51,7 +47,7 @@ Password: librarian
 [mail function]
 SMTP=smtp.gmail.com
 smtp_port=587
-sendmail_from = codewithpawanofficial@gmail.com(enter your email address that wiil be used for sending email from localhost as sender email.)
+sendmail_from = durgeshbhanu06624@gmail.com(enter your email address that wiil be used for sending email from localhost as sender email.)
 sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"
 ```
 Now Save this file and close it and follow next step.
@@ -64,7 +60,7 @@ smtp_server=smtp.gmail.com
 smtp_port=587
 error_logfile=error.log
 debug_logfile=debug.log
-auth_username=codewithpawanofficial@gmail.com(same email address that you enter in php.ini file)
+auth_username=durgeshbhanu06624@gmail.com(same email address that you enter in php.ini file)
 auth_password=ghihcljrufojsngj
 ```
 Now save the file and close it here you have end up with configuration now stop the apache server and mysql server if you have started and close it and restart xampp server and start it.
@@ -132,18 +128,18 @@ To run **Library Management System** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/library-management-system.git
+git repository 
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/library-management-system.git
+git repository 
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/durgesh._malakar/).
 
 ### License
 
