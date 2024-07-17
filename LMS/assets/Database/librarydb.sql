@@ -135,7 +135,7 @@ CREATE TABLE `librarian` (
 --
 
 INSERT INTO `librarian` (`id`, `name`, `email`, `password`, `cpassword`, `mobile`) VALUES
-(1001, 'admin', 'librarymanagementwebsite@gmail.com', 'librarian', 'librarian', '8377746663');
+(1001, 'admin', 'durgeshmalakar@gmail.com', 'librarian', 'librarian', '4578451245');
 
 -- --------------------------------------------------------
 
